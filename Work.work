@@ -1,0 +1,5 @@
+pkg update 
+pkg upgrade 
+pkg install git 
+cd work.work 
+bash banner.sh
